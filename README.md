@@ -4,6 +4,11 @@ An AI-powered stock analysis assistant that combines quantitative data, financia
 
 ---
 
+## Demo
+
+https://x.com/akmapara/status/2010825574101479671?s=20
+---
+
 ## About The Project
 
 Capit.ai is a multi-tool RAG (Retrieval-Augmented Generation) agent that analyzes stocks across four dimensions:
