@@ -1,4 +1,4 @@
-# Capit.ai
+# Pulse Trading Assistant
 
 An AI-powered stock analysis assistant that combines quantitative data, financial statements, valuation metrics, and news sentiment to provide comprehensive investment insights.
 
